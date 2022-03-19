@@ -1,0 +1,40 @@
+
+body{
+    background: #CA4246;
+    background-color: #CA4246;
+    background: conic-gradient(
+      #CA4246 16.666%, 
+      #E16541 16.666%, 
+      #E16541 33.333%, 
+      #F18F43 33.333%, 
+      #F18F43 50%, 
+      #8B9862 50%, 
+      #8B9862 66.666%, 
+      #476098 66.666%, 
+      #476098 83.333%, 
+      #A7489B 83.333%);
+}
+
+#qnaBot{
+    margin: auto;
+    width: 60%;
+    border: 5px solid #73343F;
+    padding: 10px;
+}
+
+iframe{
+    background-color: #659dbd;
+}
+
+#heading{
+    color: #EDDDD4;
+    text-align: center;
+    font-size: 21px;
+}
+
+.rainbow-text {
+    /* Create a conic gradient. */
+    /* Double percentages to avoid blur (#000 10%, #fff 10%, #fff 20%, ...). */
+  
+}
+

@@ -3,7 +3,7 @@
     <h3>Hosted at: https://covid19qnastorage.z13.web.core.windows.net/</h3>
 </p>
 
-<h2>SERVICES USED:</h2>
+<h2>SERVICES USED</h2>
 <ul>
     <li>QNA Maker</li>
     <li>Azure Bot Service</li>
@@ -11,7 +11,7 @@
 </ul>
 
 <h3>Data resource: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub</h3>
-<h2>SERVICE COSTING:</h2>
+<h2>SERVICE COSTING</h2>
 <ul>
     <li>QNA Maker - Free F0</li>
     <li>Azure Search pricing tier - Free F(3 indexes)</li>
